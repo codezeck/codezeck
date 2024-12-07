@@ -1,5 +1,6 @@
 <img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
 <br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ezequiel;I'm+22+years+old;I+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
