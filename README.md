@@ -12,7 +12,7 @@
 <br>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/zecagcb/" target="_blank">
+  <a href="https://www.instagram.com/zeckbc/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="mailto:ezequieldasilvamanco18@gmail.com">
