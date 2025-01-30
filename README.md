@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/zeckbc/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="mailto:ezequieldasilvamanco18@gmail.com">
+  <a href="mailto:ezequieldasilvamanco18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://www.linkedin.com/in/codezeck/" target="_blank">
