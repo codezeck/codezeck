@@ -1,14 +1,17 @@
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" alt="Image" width="100%">
+</div>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Ezequiel;I'm+22+years+old;I'm+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ezequiel;I'm+23+years+old;I'm+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codezeck&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Ezequiel Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezeck&layout=compact&hide_border=true&theme=midnight-purple" />
 </div>
 
+<br>
 <br>
 
 <div align="center"> 
@@ -25,10 +28,23 @@
 <br>
 <br>
 <div align="center">
-  <h3>Studying in this moment:</h3>
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS Badge">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
+  <h3>Minhas skills:</h3>
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
 </div>
 <br>
 <div align="center">
@@ -40,17 +56,13 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-<p align="center"> 
-                   - Sempre fui apaixonado por tecnologia, me sinto realizado estudando Lingagens de programação.<br>
-    			   - Acredito que essa área necessite de mais diversidade, todos merecem conhecer esse mundo incrível da tecnologia!<br> <img img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
+<p align="center">
+  Agradeço sua visita, volte sempre!<br>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
+</p>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{codezeck}/count.svg" /></p> 
 <br>
 </div>
-
-
-<img width=100% src="https://github.com/user-attachments/assets/816bbfb4-e3da-4350-badb-15968a7e7c40"/>
 
