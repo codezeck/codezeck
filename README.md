@@ -61,8 +61,4 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
 </p>
 <div align="center">
-<br><p align="centre"><b>Visitantes:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{codezeck}/count.svg" /></p> 
-<br>
-</div>
 
