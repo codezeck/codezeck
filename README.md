@@ -54,7 +54,7 @@
 <br>
 <br>
 <p align="center">
-  Agradeço sua visita, volte sempre!<br>
+  Thank you for visiting, please come again!<br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
 </p>
 <div align="center">
