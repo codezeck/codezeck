@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="100%" alt="Codezeck" />
-</div>
-
 <h1 align="center">Ezequiel Silva | Codezeck</h1>
 
 <p align="center"><strong>Desenvolvimento de Software · Agentes de IA · Automação de Processos</strong></p>
@@ -10,6 +6,10 @@
   <a href="https://www.linkedin.com/in/codezeck/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ezequieldasilvamanco18@gmail.com"><img src="https://img.shields.io/badge/E--mail-24202E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="75%" alt="Codezeck" />
+</div>
 
 ## Sobre mim
 
