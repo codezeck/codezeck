@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="100%" alt="Codezeck" />
+</div>
+
 <h1 align="center">Ezequiel Silva | Codezeck</h1>
 
 <p align="center"><strong>Desenvolvimento de Software · Agentes de IA · Automação de Processos</strong></p>
@@ -9,8 +13,6 @@
 
 ## Sobre mim
 
-<img align="right" width="30%" src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" alt="Ilustração de uma pessoa programando" />
-
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência de estágio na AAK e atuação acadêmica em desenvolvimento de software, integração de modelos de linguagem e agentes de inteligência artificial.
 
 Meu foco é desenvolver soluções que conectem automação, inteligência artificial e engenharia de software para resolver problemas reais, com atenção à arquitetura, à qualidade do código e à validação das funcionalidades.
@@ -18,8 +20,6 @@ Meu foco é desenvolver soluções que conectem automação, inteligência artif
 - **Experiência profissional:** automação de processos e aplicação de tecnologia na AAK.
 - **Atuação acadêmica:** liderança técnica, desenvolvimento de agentes de IA, integração de LLMs e avaliação de sistemas.
 - **Interesses:** arquitetura de software, APIs, memória persistente para agentes e testes automatizados.
-
-<br clear="all" />
 
 ## Tecnologias
 
