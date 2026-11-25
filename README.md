@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="75%" alt="Codezeck" />
+  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="87%" alt="Codezeck" />
 </div>
 
 ## Sobre mim
