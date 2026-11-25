@@ -1,78 +1,67 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" width="100%" />
-</div>
+<h1 align="center">Ezequiel Silva | Codezeck</h1>
 
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ezequiel;I'm+23+years+old;I'm+from+Brazil;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<br><br>
-
-<div align="center">
-  <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=codezeck&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" />
-  <img width="41%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezeck&layout=compact&hide_border=true&theme=midnight-purple" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/zeckbc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ezequieldasilvamanco18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/codezeck/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3>🛠️ My Skills</h3>
-
-  <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-    </a>
-  </p>
-</div>
-
-<br><br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br><br>
+<p align="center"><strong>Desenvolvimento de Software · Agentes de IA · Automação de Processos</strong></p>
 
 <p align="center">
-  Thanks for visiting — come back anytime! 💜  
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"
+  <a href="https://www.linkedin.com/in/codezeck/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ezequieldasilvamanco18@gmail.com"><img src="https://img.shields.io/badge/E--mail-24202E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
+
+## Sobre mim
+
+<img align="right" width="30%" src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" alt="Ilustração de uma pessoa programando" />
+
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência de estágio na AAK e atuação acadêmica em desenvolvimento de software, integração de modelos de linguagem e agentes de inteligência artificial.
+
+Meu foco é desenvolver soluções que conectem automação, inteligência artificial e engenharia de software para resolver problemas reais, com atenção à arquitetura, à qualidade do código e à validação das funcionalidades.
+
+- **Experiência profissional:** automação de processos e aplicação de tecnologia na AAK.
+- **Atuação acadêmica:** liderança técnica, desenvolvimento de agentes de IA, integração de LLMs e avaliação de sistemas.
+- **Interesses:** arquitetura de software, APIs, memória persistente para agentes e testes automatizados.
+
+<br clear="all" />
+
+## Tecnologias
+
+**Desenvolvimento e dados**
+
+![Python](https://img.shields.io/badge/Python-24202E?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-24202E?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-24202E?style=flat-square&logo=sqlite&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-24202E?style=flat-square&logo=ollama&logoColor=white)
+
+**Automação e engenharia de software**
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-6D28D9?style=flat-square) ![Git](https://img.shields.io/badge/Git-24202E?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-24202E?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24202E?style=flat-square&logo=githubactions&logoColor=white)
+
+**Desenvolvimento web — estudos e projetos pessoais**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-24202E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-24202E?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-24202E?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-24202E?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-24202E?style=flat-square&logo=css&logoColor=white)
+
+<!-- Após a apresentação e avaliação acadêmica, revisar a privacidade do README do projeto e confirmar o estado da entrega antes de habilitar a seção abaixo.
+
+## Projetos em destaque
+
+### [Cognitive Memory Agents](https://github.com/codezeck/cognitive-memory-agents)
+
+Sistema de memória persistente para agentes de IA, com armazenamento por usuário, recuperação entre sessões, atualização de fatos e esquecimento de informações.
+
+Atuação como Tech Lead em uma equipe de três integrantes, com responsabilidade pelo desenvolvimento do agente, integração de LLMs e avaliação do sistema.
+
+**Stack:** Python · FastAPI · SQLite · Ollama · Docker · Git
+
+-->
+
+## Atividade no GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codezeck&amp;show_icons=true&amp;hide_border=true&amp;theme=midnight-purple" alt="Estatísticas públicas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezeck&amp;layout=compact&amp;hide_border=true&amp;theme=midnight-purple" alt="Linguagens dos repositórios públicos" />
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/codezeck/codezeck/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">💜 Codezeck · Tecnologia, aprendizado e construção contínua.</p>
